@@ -9,16 +9,10 @@
     "password": "No Password",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
-            "percent": 100,
-            "hz": 360
+            "user": "No victors yet...",
+            "link": " ",
+            "percent":  ,
+            "hz":  
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }

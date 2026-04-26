@@ -9,10 +9,10 @@
     "password": "No Password",
     "records": [
         {
-            "user": "No victors yet...",
-            "link": " ",
-            "percent":  ,
-            "hz":  
-        },
+            "user": "RobTop",
+            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

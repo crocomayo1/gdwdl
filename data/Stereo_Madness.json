@@ -1,1 +1,30 @@
-
+{
+    "id": No Code Required :),
+    "name": "Stereo Madness",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Roptop",
+    "verification": "https://www.youtube.com/watch?v=E5L083YQzVE",
+    "percentToQualify": "100",
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
+            "percent": 100,
+            "hz": 120
+        }
+            {
+            "user": "Sample_Victor_67",
+            "link": "https://www.youtube.com/watch?v=E5L083YQzVE",
+            "percent": 100,
+            "hz": 6767676767
+        },
+    ]
+}

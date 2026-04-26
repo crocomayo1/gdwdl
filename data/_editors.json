@@ -4,4 +4,24 @@
         "name": "List Owner",
         "link": "https://www.youtube.com/@crocoGMD"
     },
+    {
+        "role": "admin",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@crocoGMD"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@crocoGMD"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@crocoGMD"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@crocoGMD"
+    }
 ]
